@@ -9,6 +9,8 @@ In a bid to drive revenue, you’ll produce a Jupyter notebook that contains you
 
 1) Visual depictions of seasonality (as measured by Google Search traffic) that are of interest to the company.
 
+![Screenshot (15)](https://github.com/shahp630/ForecastingNetProfit/assets/133065460/6ccc4eef-1f5a-4a35-94ec-017e4f5df195)
+
 2) An evaluation of how the company stock price correlates to its Google Search traffic.
 
 3) A Prophet forecast model that can predict hourly user search traffic.
