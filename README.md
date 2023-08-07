@@ -14,8 +14,3 @@ In a bid to drive revenue, you’ll produce a Jupyter notebook that contains you
 3) A Prophet forecast model that can predict hourly user search traffic.
 
 4) Answers to the questions in the instructions that you write in your Jupyter notebook.
-
-
-
-
-
