@@ -13,7 +13,7 @@ In a bid to drive revenue, you’ll produce a Jupyter notebook that contains you
 
 2) An evaluation of how the company stock price correlates to its Google Search traffic.
 
-![download](https://github.com/shahp630/ForecastingNetProfit/assets/133065460/ca65d1d8-f6dd-4a08-b714-347c932314d5)
+![Screenshot](https://github.com/shahp630/ForecastingNetProfit/assets/133065460/7345bb16-33e7-4666-b1d9-eff3251e3c26)
 
 3) A Prophet forecast model that can predict hourly user search traffic.
 
