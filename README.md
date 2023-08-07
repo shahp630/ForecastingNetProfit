@@ -21,6 +21,9 @@ In a bid to drive revenue, you’ll produce a Jupyter notebook that contains you
 
 4) Create a Time Series Model with Prophet
 
+![Screenshot (22)](https://github.com/shahp630/ForecastingNetProfit/assets/133065460/1ff2a5a6-1ee4-4671-9e9b-79601831e49d)
+
+
 
 
 
