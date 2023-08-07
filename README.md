@@ -17,4 +17,6 @@ In a bid to drive revenue, you’ll produce a Jupyter notebook that contains you
 
 3) A Prophet forecast model that can predict hourly user search traffic.
 
-5) Answers to the questions in the instructions that you write in your Jupyter notebook.
+![Screenshot (16)](https://github.com/shahp630/ForecastingNetProfit/assets/133065460/b04c5e26-5aa7-4417-99e0-c11f8b7f1e7f)
+
+
