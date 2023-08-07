@@ -31,6 +31,7 @@ In a bid to drive revenue, you’ll produce a Jupyter notebook that contains you
 
 ![Screenshot (21)](https://github.com/shahp630/ForecastingNetProfit/assets/133065460/12e71c65-6497-42bc-86cf-1739a16e2f1b)
 
+
 ![download](https://github.com/shahp630/ForecastingNetProfit/assets/133065460/59f3984e-6880-4b59-a31f-fa0b3c473f2e)
 
 
